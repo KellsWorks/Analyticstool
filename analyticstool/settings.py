@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-_ny$upmyxcmre9!01_u=@=0j824e&9%oa9zotkpw&s!0iuokhq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://sleepy-forest-92441.herokuapp.com/', 'http://localhost:8000']
+ALLOWED_HOSTS = ['https://agile-taiga-12794.herokuapp.com/', 'http://localhost:8000']
 
 # Application definition
 
