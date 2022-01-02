@@ -1,1 +1,1 @@
-web: gunicorn --worker-class analyticstool.wsgi -w 1 app:app
+web: gunicorn analyticstool.wsgi --worker-class eventlet -w 1 app:app
